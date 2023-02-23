@@ -1,16 +1,19 @@
-### Hi there 👋
+![Banner](https://github.com/cmargiotta/cmargiotta/raw/main/banner.JPG)
 
-<!--
-**cmargiotta/cmargiotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there!
 
-Here are some ideas to get you started:
+<img align="right" height="150" src="https://github.com/cmargiotta/cmargiotta/raw/main/d20.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an embedded software engineer who works with bare-metal C++. In my free time, I enjoy taking on projects that involve metaprogramming in C++. When I'm not coding, you can usually find me stargazing or playing games.
+
+I'm a total nerd at heart, with a passion for video games, movies, photography and books. In my (other) free time, I'm often found crafting fantastical adventures as a dungeon master in tabletop RPGs. And to top it off, I also have a soft spot for folk metal music.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmargiotta&theme=dark&show_icons=true">
+</p>
+
+##
+
+<a href="https://www.instagram.com/nychtelios/" target="_blank"><img src="https://github.com/cmargiotta/cmargiotta/raw/main/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/car-margiotta/" target="_blank"><img src="https://github.com/cmargiotta/cmargiotta/raw/main/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/cmargiotta" target="_blank"><img src="https://github.com/cmargiotta/cmargiotta/raw/main/git.png" alt="GitHub" width="30"></a>
